@@ -98,6 +98,8 @@
 
 [Quadtree planet II](https://www.youtube.com/watch?v=mVF9dRKMbwk)
 
+[MMORPG Course Free](https://www.youtube.com/watch?v=o_Aj4xB0SVw&list=PLbbmTaHgSifx0hVwr-t80T95llXgZW_jB)
+
 ## Bosses
 
 ![Cthulhu](https://raw.githubusercontent.com/LucasHiago/LucasHiago/main/assets/cthulhu.png)
